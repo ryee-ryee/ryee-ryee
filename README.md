@@ -1,18 +1,20 @@
-# Hi there, I'm ryee-ryee! 👋
+# 👋 Hi there, I'm ryee-ryee!
 
 🎓 **Student | Aspiring Web Developer & Designer**
 
 ---
 
 ## 🚀 About Me
-- 🌟 I’m passionate about **web development**, **UI/UX design**, and **graphic design**.
-- 💻 Currently expanding my skills in **React** and the **MERN stack**. and game dev using godot engine
-- 🖥️ Favorite programming languages: **Java**, **Python**, and **C++**.
-- 🎨 I love blending code and creativity to build visually appealing and user-friendly digital experiences.
+
+- 🌟 Passionate about **web development**, **UI/UX design**, and **graphic design**
+- 💻 Currently expanding my skills in **React**, the **MERN stack**, and game development with the **Godot engine**
+- 🖥️ Favorite programming languages: **Java**, **Python**, and **C++**
+- 🎨 I love blending code and creativity to build visually appealing and user-friendly digital experiences
 
 ---
 
 ## 🛠️ Tech Stack
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -24,20 +26,18 @@
 ---
 
 ## 📚 What I’m Learning
-- Advanced JavaScript frameworks (React, Node.js)
+
+- Advanced JavaScript frameworks (**React**, **Node.js**)
 - Full-stack development with **MERN**
-- Deeper UI/UX principles and graphic design techniques
+- Game development with **Godot**
+- Deeper **UI/UX** principles and graphic design techniques
 
 ---
 
-## 🌱 Let’s Connect!
-<!--
-Add your social links or portfolio here!
-[LinkedIn](#) | [Portfolio](#) | [Twitter](#)
--->
+
+> “Creativity is intelligence having fun.”  
+> <sub>– Albert Einstein</sub>
 
 ---
-
-> “Creativity is intelligence having fun.” – Albert Einstein
 
 Thanks for stopping by! 😊
