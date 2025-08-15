@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 🌟 I’m passionate about **web development**, **UI/UX design**, and **graphic design**.
-- 💻 Currently expanding my skills in **React** and the **MERN stack**. ang game dev using godot engine
+- 💻 Currently expanding my skills in **React** and the **MERN stack**. and game dev using godot engine
 - 🖥️ Favorite programming languages: **Java**, **Python**, and **C++**.
 - 🎨 I love blending code and creativity to build visually appealing and user-friendly digital experiences.
 
