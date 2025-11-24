@@ -21,7 +21,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MERN](https://img.shields.io/badge/MERN-3DDC84?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 
 ---
 
