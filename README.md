@@ -21,6 +21,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MERN](https://img.shields.io/badge/MERN-3DDC84?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-F24E1E?style=for-the-badge&logo=Godot&logoColor=white)
 
 ---
 
