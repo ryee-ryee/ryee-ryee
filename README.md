@@ -1,10 +1,6 @@
 # <p align="center">👋 Hi there, I'm ryee-ryee!</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Welcome%20to%20my%20Portfolio&fontSize=40&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Student;Aspiring+Web+Developer;UI/UX+Designer;Game+Developer+(Godot)" alt="Typing SVG" />
 </p>
 
@@ -87,6 +83,3 @@
   <img src="https://komarev.com/ghpvc/?username=ryee-ryee&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00d2ff&height=20&section=footer" />
-</p>
