@@ -19,7 +19,7 @@
         🌟 <b>Passionate</b> about web development and creative UI/UX design.<br><br>
         💻 Currently mastering <b>React</b>, the <b>MERN stack</b>, and <b>Godot</b>.<br><br>
         🎨 I blend code and creativity to build high-performance digital experiences.<br><br>
-        📫 Reach me at: <a href="mailto:your-email@example.com"><b>Email</b></a>
+        📫 Reach me at: <a href="dumaliryan69@gmail.com"><b>dumaliryan69@gmail.com</b></a>
       </p>
     </td>
     <td width="40%">
