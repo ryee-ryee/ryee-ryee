@@ -12,7 +12,7 @@
   <tr>
     <td width="60%">
       <p align="left">
-        🌟 <b>Passionate</b> about web development and creative UI/UX design.<br><br>
+        🌟 <b>Passionate</b> about web and game development and creative UI/UX design.<br><br>
         💻 Currently mastering <b>React</b>, the <b>MERN stack</b>, and <b>Godot</b>.<br><br>
         🎨 I blend code and creativity to build high-performance digital experiences.<br><br>
         📫 Reach me at: <a href="dumaliryan69@gmail.com"><b>dumaliryan69@gmail.com</b></a>
