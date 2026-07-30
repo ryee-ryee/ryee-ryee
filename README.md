@@ -155,7 +155,7 @@ Session-based secure authentication system with:
   <a href="https://github.com/ryee-ryee">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/ryan-dumali-275382418">
+  <a href="https://www.linkedin.com/in/ryan-dumali-275382418">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
