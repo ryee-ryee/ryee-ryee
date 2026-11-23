@@ -1,45 +1,45 @@
-<!-- Artistic Header Banner -->
+<!-- Artistic Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Ryan%20Dumali&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Unity%20Game%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Ryan Dumali Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ryan%20Dumali&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Unity%20Game%20Developer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Ryan Dumali Header" />
 </p>
 
-<!-- Minimalist Typing Subtitle -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Unity+Game+Developer+%26+C%23+Systems+Architect;Crafting+Atmospheric+3D+%26+PSX-Style+Experiences;Full+Stack+Web+%26+Android+Developer;Bridging+Computer+Science+%26+Interactive+Art" alt="Typing SVG" />
-</p>
+<!-- Modern Typing Subtitle -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=580&lines=Ryan+Dumali;Unity+Game+Developer;Full+Stack+Developer;Godot+Game+Developer" alt="Typing SVG" />
+</h1>
 
-<!-- Quick Connect Bar -->
+<!-- Top Stats & Quick Links -->
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ryee-ryee&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
   <a href="mailto:dumaliryan69@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/ryan-dumali-275382418">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail" />
   </a>
   <a href="https://github.com/ryee-ryee">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+    <img src="https://img.shields.io/github/followers/ryee-ryee?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ryee-ryee&label=VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<br/>
+---
 
-## ✦ About Me
+## ✦ 👨‍💻 About Me
 
-> *"Engineering clean, modular systems behind atmospheric worlds and interactive software."*
+> *"Bridging the gap between theoretical Computer Science and interactive worlds."*
 
-I'm a **Unity Game Developer** and **Full Stack Engineer** based in **Cavite, Philippines**, with a Bachelor of Science in Computer Science. I focus on decoupling complex gameplay architectures, building tactile 3D environments, and shipping full-stack web and mobile applications.
+I'm a passionate **Unity Game Developer** and **Full Stack Developer** from **Mendez, Cavite, Philippines** with a strong foundation in Computer Science. I love bridging the gap between theoretical concepts and practical applications—whether it's engineering atmospheric 3D games, building web apps, or crafting mobile applications!
+
+- 🎮 **Game Dev**: Specializing in **Unity Engine (C#)** and **Godot Engine (GDScript)**
+- 🌐 **Full Stack**: React, Express.js, Laravel, Node.js
+- 📱 **Mobile**: Flutter & Dart
+- 🐍 **Data Science**: Python with Pandas & Matplotlib
 
 ```csharp
 public class RyanDumali : MonoBehaviour
 {
-    public string Role => "Unity Game Developer & Full Stack Engineer";
+    public string Role => "Unity Game Developer & Full Stack Developer";
     public string Location => "Mendez, Cavite, Philippines";
 
-    public string[] FocusAreas = {
-        "Unity 3D & C# Gameplay Architecture",
-        "PSX / Retro Low-Poly Aesthetics & Atmospheric Lighting",
-        "Godot Engine & Cross-Engine Systems",
-        "Full Stack Web (React, Node.js, Express, Laravel) & Flutter"
-    };
+    void Start()
+    {
+        Debug.Log("Building modular gameplay systems, web apps, and mobile experiences.");
+    }
 }
